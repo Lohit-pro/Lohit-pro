@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohit-pro&label=Profile%20views&color=0e75b6&style=flat" alt="lohit-pro" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lohitkudlannav1" target="blank"><img src="https://img.shields.io/twitter/follow/lohitkudlannav1?logo=twitter&style=for-the-badge" alt="lohitkudlannav1" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+
+<!-- <p align="left"> <a href="https://twitter.com/lohitkudlannav1" target="blank"><img src="https://img.shields.io/twitter/follow/lohitkudlannav1?logo=twitter&style=for-the-badge" alt="lohitkudlannav1" /></a> </p> -->
 
 - 🌱 I’m currently learning **MERN Stack.**
 
