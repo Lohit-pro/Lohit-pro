@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/lohitkudlannav1" target="blank"><img src="https://img.shields.io/twitter/follow/lohitkudlannav1?logo=twitter&style=for-the-badge" alt="lohitkudlannav1" /></a> </p> -->
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Backend Frameworks.**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
