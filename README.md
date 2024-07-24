@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 Checkout my portfolio [**Click me**](https://lohit-pro.vercel.app/)
+- 👨‍💻 Checkout my portfolio [**Click me**](https://lohitpro.vercel.app/)
 
 - 📄 Know about my experiences [**My Resume**](https://lohit-pro.vercel.app/Resume.pdf)
 
