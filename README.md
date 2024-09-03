@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌱 I’m currently learning Backend Frameworks.<br>👯 Currently collaborating on Web Development Projects<br>👨‍💻 Checkout my portfolio [**Click me**](https://lohitpro.vercel.app/)<br>📄 Know about my experiences [**My Resume**](https://lohit-pro.vercel.app/Resume.pdf)<br>📫 Reach me using lohitkudlannavar@gmail.com
 
+<img src="https://komarev.com/ghpvc/?username=lohit-pro&label=Profile%20views&color=0e75b6&style=flat" alt="ShOdHa" /> 
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/919121016830173246) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__lohit_mk___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lohit-kudlannavar-76b046250/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lohitpro) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LohitKudlannav1) 
@@ -19,8 +21,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Lohit-pro&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Lohit-pro&icon=2&color=0)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lohit) 
 
